@@ -1,0 +1,114 @@
+[
+    {
+      "img": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+      "id": "1",
+      "price": 19.99,
+      "name": "Product One",
+      "published_year": 2021
+    },
+    {
+      "img": "https://t3.ftcdn.net/jpg/00/53/73/42/360_F_53734293_rs3bkrl9n1EJZBj2CdogkmeF6W5aOhy5.jpg",
+      "id": "2",
+      "price": 29.99,
+      "name": "Product Two",
+      "published_year": 2022
+    },
+    {
+      "img": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=1200",
+      "id": "3",
+      "price": 15.99,
+      "name": "Product Three",
+      "published_year": 2020
+    },
+    {
+      "img": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+      "id": "4",
+      "price": 49.99,
+      "name": "Product Four",
+      "published_year": 2023
+    },
+    {
+      "img": "https://s26162.pcdn.co/wp-content/uploads/2023/06/overflowing-bookcases.jpg",
+      "id": "5",
+      "price": 9.99,
+      "name": "Product Five",
+      "published_year": 2019
+    },
+    {
+      "img": "https://miro.medium.com/v2/resize:fit:1200/1*S81O15rjKfG-BFdnNC6-GQ.jpeg",
+      "id": "6",
+      "price": 39.99,
+      "name": "Product Six",
+      "published_year": 2022
+    },
+    {
+      "img": "https://st2.depositphotos.com/2769299/7314/i/450/depositphotos_73146775-stock-photo-a-stack-of-books-on.jpg",
+      "id": "7",
+      "price": 25.99,
+      "name": "Product Seven",
+      "published_year": 2021
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhXSqVkbgwDfmepZZ2ylQgBvAtEramavrL0Mjd0LI1Q&s",
+      "id": "8",
+      "price": 17.99,
+      "name": "Product Eight",
+      "published_year": 2020
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/creative-composition-world-book-day_23-2148883765.jpg",
+      "id": "9",
+      "price": 21.99,
+      "name": "Product Nine",
+      "published_year": 2023
+    },
+    {
+      "img": "https://images.inc.com/uploaded_files/image/1920x1080/getty_655998316_2000149920009280219_363765.jpg",
+      "id": "10",
+      "price": 34.99,
+      "name": "Product Ten",
+      "published_year": 2018
+    },
+    {
+      "img": "https://static01.nyt.com/images/2023/12/10/books/review/10TenBest-COVER/10TenBest-COVER-videoLarge.jpg",
+      "id": "11",
+      "price": 44.99,
+      "name": "Product Eleven",
+      "published_year": 2019
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgpXLHVMvnuiIpa9Re0vDQM2DUCO6znMhRURvZDagzA&s",
+      "id": "12",
+      "price": 27.99,
+      "name": "Product Twelve",
+      "published_year": 2021
+    },
+    {
+      "img": "https://joshuahellerrarebooks.com/wp-content/uploads/2023/06/63783ef59d37fd25848828fe_10-books-every-leader-should-read.webp",
+      "id": "13",
+      "price": 31.99,
+      "name": "Product Thirteen",
+      "published_year": 2020
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYf9jKjGfxshDBz1hOcu2VL1NV4n5MIyypYLBuAW4Ufw&s",
+      "id": "14",
+      "price": 16.99,
+      "name": "Product Fourteen",
+      "published_year": 2018
+    },
+    {
+      "img": "https://media.istockphoto.com/id/495477978/photo/open-book.jpg?s=612x612&w=0&k=20&c=vwJ6__M7CVPdjkQFUv9j2pr7QJiQ9bWW_5jXjR9TcjY=",
+      "id": "15",
+      "price": 23.99,
+      "name": "Product Fifteen",
+      "published_year": 2022
+    },
+    {
+      "img": "https://www.timeforkids.com/wp-content/uploads/2024/03/G3G5_240322_good_reads.jpg?w=1024",
+      "id": "16",
+      "price": 12.99,
+      "name": "Product Sixteen",
+      "published_year": 2023
+    }
+  ]
